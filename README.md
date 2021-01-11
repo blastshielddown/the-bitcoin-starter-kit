@@ -18,4 +18,4 @@ These are the people and sites I rely on for information regarding the digital f
 
 ## Pages
 * [Intro](docs/01-intro.md)
-* [Beginner's Map][docs/02-beginners-map.md]
+* [Beginner's Map](docs/02-beginners-map.md)
