@@ -11,3 +11,5 @@ Andreas Antonopoulos is a pioneer in the cryptocurrency space. He wrote the firs
 [Introduction to Bitcoin (2016)](https://www.youtube.com/watch?v=l1si5ZWLgy0)
 
 ***
+
+[Why I Changed My Mind on Bitcoin (2020-12-24)](https://www.bloomberg.com/news/articles/2020-12-24/one-asset-that-changed-investors-minds-in-2020-is-bitcoin)
