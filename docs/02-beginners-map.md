@@ -13,3 +13,8 @@ Andreas Antonopoulos is a pioneer in the cryptocurrency space. He wrote the firs
 ***
 
 [Why I Changed My Mind on Bitcoin (2020-12-24)](https://www.bloomberg.com/news/articles/2020-12-24/one-asset-that-changed-investors-minds-in-2020-is-bitcoin)
+
+***
+
+A prescient post from 2014:
+[Speculative Attack (2014-07-04)](https://nakamotoinstitute.org/mempool/speculative-attack/)
